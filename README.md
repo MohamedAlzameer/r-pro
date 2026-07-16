@@ -172,3 +172,7 @@ This project helps understand:
 - Improve visualization with `ggplot2`.
 
 ---
+
+##Visualization
+<img width="671" height="725" alt="WhatsApp Image 2026-07-16 at 8 59 37 AM" src="https://github.com/user-attachments/assets/5773e7e2-422a-4e18-80b9-b57bebd204e3" />
+
